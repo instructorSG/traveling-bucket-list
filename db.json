@@ -1,0 +1,88 @@
+{
+    "cities":[
+    {  
+    "id": 0,
+    "name":"Maldives, Asia",
+    "image": "https://lp-cms-production.imgix.net/2020-09/The%20Nautilus%20Maldives_July19-9335.jpg",  
+    "details": "Maldives, officially the Republic of Maldives, is an archipelagic state located in Southern Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland. ", 
+    "visited": false
+  },
+  
+  {"id": 1,
+    "name": "Paris, France",
+    "image": "https://tappwater.co/en/wp-content/uploads/sites/13/2020/01/Tap-water-in-paris-france-water-filter.jpg",
+    "details": "Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+    "visited": false
+  },
+  {"id": 2,
+    "name":  "Tokyo, Japan",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4b/5d/10/caption.jpg?w=500&h=300&s=1&cx=1005&cy=690&chk=v1_2ed86f729380ea073850",
+    "details": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods.",
+    "visited": false
+  },
+  {"id": 3,
+    "name":"Tulum, Mexico",
+    "image": "https://www.travelplusstyle.com/wp-content/uploads/2020/08/papaya-playa-ipalapa-r-r.jpg",
+    "details": "Tulum is a town on the Caribbean coastline of Mexico’s Yucatán Peninsula. It’s known for its beaches and well-preserved ruins of an ancient Mayan port city. ",
+    "visited": false
+  },
+  {"id": 4,
+    "name": "Johanesburg, South Africa",
+    "image": "http://cdn.cnn.com/cnnnext/dam/assets/140912110250-durban-7.jpg",
+    "details": "Johannesburg, South Africa's biggest city and capital of Gauteng province. Its sprawling Soweto township was once home to Nelson Mandela and Desmond Tutu.",
+    "visited": false
+  },
+  { "id": 5,
+    "name": "Mykonos, Greece",
+    "image": "https://www.rocabellahotels.com/sites/default/files/rocabella-mykonos-3.jpg",
+    "details": "You know you love pesto pasta, so this red bell pepper twist on your favorite sauce does not disappoint! Roasted red peppers and sun-dried tomatoes add a deep and unexpected flavor and a beautiful color to the pasta. The best thing about this recipe is that it tastes incredible both hot and cold!",
+    "visited": false
+  },
+  { "id": 6,
+    "name": "Madrid, Spain",
+    "image": "https://assets3.thrillist.com/v1/image/2699171/792x528/scale;webp=auto;jpeg_quality=60;progressive.jpg" ,
+    "details": "Located in Spain, Madrid is the capital of Spain, Madrid has almost 3.4 million inhabitants and a metropolitan area population of approximately 6.7 ",
+    "visited": false
+  },
+  { "id": 7,
+    "name": "Florence, Italy",
+    "image": "https://digitalnomads.world/wp-content/uploads/2021/03/florence-digital-nomads.jpg",
+    "details": "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture.",
+    "visited": false
+  },
+  {
+    "id":8,
+    "name": "Montego Bay, Jamaica",
+    "image":"https://www.beaches.com/blog/content/images/2020/02/Montego-Bay-City-Jamaica.jpg",
+    "details": "Montego Bay, located at the north shore of Jamaica, this city is known for its beautiful beaches, notably Doctor's Cave Beach, in addition to outdoor attractions like gardens, golf courses and adventure tours." ,
+    "visited": true
+  },
+  {
+    "id":9,
+    "name": "Nairobi, Kenya",
+    "image":"https://img2.chinadaily.com.cn/images/202112/25/61c65d95a310cdd3d8232734.jpeg",
+    "details": "Nairobi is the capital and largest city of Kenya. The name comes from the Maasai phrase Enkare Nairobi, which translates to place of cool waters, a reference to the Nairobi River which flows through the city.",
+    "visited": true 
+  },
+  {
+  "id":10,
+    "name": "Miami, Florida",
+    "image":"https://lp-cms-production.imgix.net/2021-06/GettyRF_545345608.jpg?auto=format&q=40&ar=16%3A9&fit=crop",
+    "details": "Miami, officially the City of Miami, is a coastal metropolis and the seat of Miami-Dade County in South Florida. It is the second-most populous city in Florida",
+    "visited": true
+},
+{
+ "id": 11,
+ "name": "New York City",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Broadway_Crowds_%285896264776%29_crop.jpg",
+ "description": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park.",
+ "visited": true
+},
+{
+  "id": 12,
+  "name": "New Orleans, Louisiana",
+  "image":"https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/rosie-kerr-bourbon-street-unsplash_1920x1280.jpg",
+  "description":  "New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the Big Easy, it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures.",
+  "visited": true
+}
+    ]}
