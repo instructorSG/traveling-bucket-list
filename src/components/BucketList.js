@@ -3,15 +3,22 @@ import Card from "./Card";
 
 function BucketList({ cities }){
 
+    const getData = () => {
+        const ary = [];
+
+        cities.forEach((city) => {
+            if (city.visited === false) {
+                ary.push(<Card key={city.id} title={city.name} imageUrl={city.image} body={city.details}/>)
+            }
+        });
+        return ary;
+    }
 
     return (
         <ul>
-        {cities.map(city =>{
-           return <Card key={city.id} title={city.name} imageUrl={city.image} body={city.details}/>
-        } 
-        )}
+            {getData()}
         </ul>
-        )
+    )
 }
 
 export default BucketList

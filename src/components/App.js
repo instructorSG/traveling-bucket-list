@@ -19,7 +19,7 @@ function App() {
        .then(cities => setCities(cities)) 
    }, [])
 
-   
+  
    
   return (
     <BrowserRouter>
@@ -38,7 +38,7 @@ function App() {
           <BucketList cities={cities}/>
         </Route>
         <Route path="/visited">
-          <Visited />
+          <Visited cities={cities}/>
         </Route>
         <Route path="*">
           <NotFound/>
